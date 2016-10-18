@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Vipin Malik
+Class-Path: dependency-jars/spring-core-3.0.5.RELEASE.jar dependency-j
+ ars/spring-asm-3.0.5.RELEASE.jar dependency-jars/commons-logging-1.1.
+ 1.jar dependency-jars/spring-context-3.0.5.RELEASE.jar dependency-jar
+ s/spring-aop-3.0.5.RELEASE.jar dependency-jars/aopalliance-1.0.jar de
+ pendency-jars/spring-beans-3.0.5.RELEASE.jar dependency-jars/spring-e
+ xpression-3.0.5.RELEASE.jar dependency-jars/cglib-2.2.2.jar dependenc
+ y-jars/asm-3.3.1.jar
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Main-Class: org.vmalik.core.App
+
