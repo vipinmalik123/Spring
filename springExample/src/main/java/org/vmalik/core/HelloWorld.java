@@ -10,6 +10,10 @@ public class HelloWorld {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	public String getName() {
+		return this.name;
+	}
 
 	public void printHello() {
 		System.out.println("Spring : Hello ! " + name);

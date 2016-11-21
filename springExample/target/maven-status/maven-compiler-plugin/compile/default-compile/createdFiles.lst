@@ -2,4 +2,6 @@ org\vmalik\core\HelloWorld.class
 org\vmalik\common\FileNameGenerator.class
 org\vmalik\core\App.class
 org\vmalik\customer\Customer.class
+org\vmalik\web\controller\HomeController.class
 org\vmalik\config\AppConfig.class
+org\vmalik\customer\Address.class
